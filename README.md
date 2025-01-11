@@ -1,6 +1,6 @@
 # Joey's Summer 2021 Portfolio
 
-Link: [josephhilber.com](https://www.josephhilber.com).
+Link: [GitHub Pages Link](https://jah01.github.io/portfolio2).
 
 This is a site I created using React. I completed this project over the summer of 2021 and it is still being updated.
 
